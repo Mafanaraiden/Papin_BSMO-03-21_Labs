@@ -1,0 +1,16 @@
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.exe
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.deps.json
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.runtimeconfig.json
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.runtimeconfig.dev.json
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.dll
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\ref\AbstractFabric.dll
+C:\Users\valer\source\repos\AbstractFabric\bin\Debug\net5.0\AbstractFabric.pdb
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.AssemblyInfo.cs
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.dll
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\ref\AbstractFabric.dll
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.pdb
+C:\Users\valer\source\repos\AbstractFabric\obj\Debug\net5.0\AbstractFabric.genruntimeconfig.cache

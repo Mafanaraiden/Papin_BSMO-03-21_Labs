@@ -1,0 +1,16 @@
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.exe
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.deps.json
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.runtimeconfig.json
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.runtimeconfig.dev.json
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.dll
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\ref\StrategyAndObserver.dll
+C:\Users\valer\source\repos\StrategyAndObserver\bin\Debug\net5.0\StrategyAndObserver.pdb
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.AssemblyInfo.cs
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.dll
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\ref\StrategyAndObserver.dll
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.pdb
+C:\Users\valer\source\repos\StrategyAndObserver\obj\Debug\net5.0\StrategyAndObserver.genruntimeconfig.cache
